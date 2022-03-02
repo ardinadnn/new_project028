@@ -1,5 +1,6 @@
 ##author:  081911633028 / Ardina DN
 ##add dan sub (maks 3 angka)
+##halo halo
 class no1:
     def __init__(self,num1=None,num2=None,num3=None):
         if num1!=None and num2!=None and num3!=None:
